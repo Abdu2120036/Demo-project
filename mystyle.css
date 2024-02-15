@@ -2,6 +2,10 @@
     --MidnightBlueBackground: rgb(25, 25, 112);
     --BlueVioletMultipleChoice: rgb(138,43,226);
     --MediumSlateBlueButton: rgb(123, 104, 238);
+
+    --BlackColorTheme: #141010;
+    --LessBlackColorTheme: #2b2727;
+    --leastBlackColorTheme: #423f3f;
 }
 
 * {
@@ -15,5 +19,5 @@ body {
     height: 100vh;
     display: flex;
     background-image: linear-gradient(to bottom right, rgba(25, 25, 112, 0.2), var(--MidnightBlueBackground));
-    
+
 }
