@@ -19,5 +19,13 @@ body {
     height: 100vh;
     display: flex;
     background-image: linear-gradient(to bottom right, rgba(25, 25, 112, 0.2), var(--MidnightBlueBackground));
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: auto;
+    padding: 2rem;
+    background-image: linear-gradient(to bottom right,);
 
 }
